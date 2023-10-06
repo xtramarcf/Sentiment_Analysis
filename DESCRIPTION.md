@@ -10,7 +10,7 @@ The "src" directory consists of the backend and frontend package. You'll also fi
 ### Frontend
 The Frontend is represented by a single script running the application and invoking the methods for processing the input data to outputdata.
 ### Backend
-Evaluate News Sentiment - Aggregates and interprets the sentiment of news articles.
+Evaluate News Sentiment - Aggregates and interprets the sentiment of news articles.\n
 Formatting - Formatting and cleaning the rawdata as an upstreamed process of the processing itself.
 Manual Testing -Supports the developer for manual tests.
 Model - Represents the Model configuration and methods for training the model.
