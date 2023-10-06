@@ -11,6 +11,6 @@ For that, please do the following steps:
    https://www.dropbox.com/scl/fi/x9605m6a7lee7l88zfu8p/data.zip?rlkey=g8tdzd8w4yxoan8vyrrw8tkl4&dl=0
 
 3. You have to unpack the downloaded .zip and copy the data folder into the .zip to the project directory.
-   The src-folder of the project and the data-folder need to be in the same directory
+   The src-folder of the project and the data-folder need to be in the same directory.
    
-Now you can open the project in an IDE of your choice.
+Now you can open the project in an IDE of your choice. With adding the data files, all the required paths are now available.
