@@ -10,8 +10,8 @@ The "src" directory consists of the backend and frontend package. You'll also fi
 ### Frontend
 The Frontend is represented by a single script running the application and invoking the methods for processing the input data to outputdata.
 ### Backend
-Processing - Processes the formatted data in a format the model understands.  
 Formatting - Formatting and cleaning the rawdata as an upstreamed process of the processing itself.  
+Processing - Processes the formatted data in a format the model understands.  
 Model - Represents the Model configuration and methods for training the model.  
 Manual Testing -Supports the developer for manual tests.  
 News API - Configures an API for requesting news and their sentiment.  
