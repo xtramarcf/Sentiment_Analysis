@@ -20,7 +20,7 @@ The application with all its dependencies and the python runtime was packaged to
 ## 2. Setting up the Development Project
 The repository contains all scripts of the development project. 
 But the project also requires some data files, which represents the raw data, the formatted data, the trained models and so on.
-The data files needs to be added manually.
+The data files need to be added manually.
 
 Please do the following steps:
 
