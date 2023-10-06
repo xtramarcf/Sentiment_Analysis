@@ -17,4 +17,4 @@ Manual Testing - Supports the developer for manual tests.
 News API - Configures an API for requesting news and their sentiment.  
 Evaluate News Sentiment - Aggregates and interprets the sentiment of news articles.
 
-This description should be understand as an overview of the development project. More detailed information about the methods and processes can be found within the commented code.
+This description should be understand as an overview of the development project. More detailed information about the scripts can be found within the commented code.
