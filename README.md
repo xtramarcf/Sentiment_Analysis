@@ -26,7 +26,7 @@ Please do the following steps:
 
 1. Create a local folder for the Sentiment_Analysis and pull the project to that folder.
 
-2. Download data.zip from the following link: 
+2. Download data.zip with the following link: 
    https://www.dropbox.com/scl/fi/x9605m6a7lee7l88zfu8p/data.zip?rlkey=g8tdzd8w4yxoan8vyrrw8tkl4&dl=0
 
 3. You have to unpack the downloaded .zip and copy the data folder from the .zip file to the project directory.
