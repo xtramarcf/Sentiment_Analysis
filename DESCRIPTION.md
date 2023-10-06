@@ -13,7 +13,7 @@ The Frontend is represented by a single script running the application and invok
 Formatting - Formatting and cleaning the rawdata as an upstreamed process of the processing itself.  
 Processing - Processes the formatted data in a format the model understands.  
 Model - Represents the Model configuration and methods for training the model.  
-Manual Testing -Supports the developer for manual tests.  
+Manual Testing - Supports the developer for manual tests.  
 News API - Configures an API for requesting news and their sentiment.  
 Evaluate News Sentiment - Aggregates and interprets the sentiment of news articles.
 
